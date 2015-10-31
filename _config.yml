@@ -1,0 +1,23 @@
+name: Glenn Gibson
+favicon: null
+layout_spectrum: 0.38441613712348044
+typography_spectrum: 0.3025053981691599
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9127394326496869
+  lightness: 0.9042698089033365
+  saturation: 0.6757205810863525
+  rhythmicContrast: 0.35116516589187086
+purpose: []
