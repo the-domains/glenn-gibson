@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-01T04:50:24.301Z'
-dateModified: '2015-11-01T04:46:11.006Z'
+datePublished: '2015-11-01T04:50:37.345Z'
+dateModified: '2015-11-01T04:50:27.904Z'
 title: Automotive Portfolio
 sourcePath: _posts/2015-11-01-automotive-portfolio.md
 published: true
