@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-01T06:04:57.352Z'
-dateModified: '2015-11-01T06:04:42.384Z'
+datePublished: '2015-11-01T06:20:22.166Z'
+dateModified: '2015-11-01T06:20:17.905Z'
 title: "St Catherine's Rowing Pictures"
 sourcePath: _posts/2015-11-01-st-catherines-rowing-pictures.md
 published: true
