@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-01T06:05:36.175Z'
-dateModified: '2015-11-01T06:05:28.109Z'
+datePublished: '2015-11-01T06:09:04.898Z'
+dateModified: '2015-11-01T06:08:57.426Z'
 title: Automotive Portfolio
 sourcePath: _posts/2015-11-01-automotive-portfolio.md
 published: true
@@ -18,7 +18,7 @@ publisher:
   url: null
   favicon: null
 url: automotive-portfolio/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Automotive Portfolio
