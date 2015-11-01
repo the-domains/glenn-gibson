@@ -1,6 +1,6 @@
 name: Glenn Gibson
 favicon: null
-layout_spectrum: 0.38441613712348044
+layout_spectrum: 0.3514
 typography_spectrum: 0.58199
 title: 'Glenn Gibson | Photographer'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#00000a'
-    - '#75797c'
-    - '#33363d'
-    - '#8c001b'
-  brandStrength: 0
-  lightness: 0.0625
-  saturation: 0
-  rhythmicContrast: 0
+    - '#000000'
+    - '#2e2e2e'
+    - '#858585'
+    - '#ababab'
+    - '#f0f0f0'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.9375
+  rhythmicContrast: 0.75
 purpose: []
