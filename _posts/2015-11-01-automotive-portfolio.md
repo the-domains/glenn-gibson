@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-01T06:19:23.582Z'
-dateModified: '2015-11-01T06:19:18.768Z'
+description: Complete automotive portfolio online at bluefish.com.au
+datePublished: '2015-11-01T06:25:10.406Z'
+dateModified: '2015-11-01T06:25:02.677Z'
 title: Automotive Portfolio
 sourcePath: _posts/2015-11-01-automotive-portfolio.md
 published: true
