@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-01T04:55:53.389Z'
-dateModified: '2015-11-01T04:55:43.954Z'
+description: "For some behind the scenes insights, some 'friday flashbacks' and other goodies, follow my Instagram feed!"
+datePublished: '2015-11-01T05:55:02.915Z'
+dateModified: '2015-11-01T05:53:57.848Z'
 author: []
 related: []
 app_links:
@@ -19,7 +19,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Glenn Gibson (@glenn_gibson) * Instagram photos and videos'
+title: Instagram
 sourcePath: _posts/2015-11-01-glenn-gibson-glenn_gibson-instagram-photos-and-videos.md
 published: true
 authors: []
