@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Glenn Gibson]]></title>
         <description><![CDATA[Glenn Gibson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/glenn-gibson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 03:33:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 Nov 2015 03:42:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/glenn-gibson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rowing Pics]]></title>
+            <description><![CDATA[<h1>Rowing Pics</h1>]]></description>
+            <link>https://thegrid.ai/glenn-gibson/rowing-pics/index.html</link>
+            <guid isPermaLink="false">78080000-5c5d-4a94-a848-66d10bd66927</guid>
+            <pubDate>Sun, 01 Nov 2015 03:41:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gfdsfgsfg]]></title>
             <description><![CDATA[<article><h1>gfdsfgsfg</h1><p>Find me on Instagram</p></article>]]></description>
-            <link>undefinedgfdsfgsfg/index.html</link>
+            <link>https://thegrid.ai/glenn-gibson/gfdsfgsfg/index.html</link>
             <guid isPermaLink="false">07e03a33-926d-438e-b9a5-75d83170d17d</guid>
             <pubDate>Sun, 01 Nov 2015 03:33:07 GMT</pubDate>
         </item>
