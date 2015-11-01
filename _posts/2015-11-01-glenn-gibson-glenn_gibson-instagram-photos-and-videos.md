@@ -1,12 +1,15 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-11-01T04:46:32.726Z'
+dateModified: '2015-11-01T04:40:58.366Z'
 author: []
 related: []
-publisher:
-  url: 'https://instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/64b94d2/images/ico/favicon.ico'
-  domain: instagram.com
-keywords: []
 app_links:
   - url: 'instagram://user?username=glenn_gibson'
     type: ios
@@ -16,15 +19,16 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://instagram.com/glenn_gibson/'
 title: 'Glenn Gibson (@glenn_gibson) * Instagram photos and videos'
-datePublished: '2015-11-01T03:49:21.873Z'
-dateModified: '2015-11-01T03:46:15.891Z'
 sourcePath: _posts/2015-11-01-glenn-gibson-glenn_gibson-instagram-photos-and-videos.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: instagram.com
+  url: 'https://instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/64b94d2/images/ico/favicon.ico'
+url: glenn-gibson-glenn_gibson-instagram-photos-and-videos/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
