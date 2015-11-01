@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Glenn Gibson]]></title>
+        <description><![CDATA[Glenn Gibson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 Nov 2015 03:33:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gfdsfgsfg]]></title>
+            <description><![CDATA[<article><h1>gfdsfgsfg</h1><p>Find me on Instagram</p></article>]]></description>
+            <link>undefinedgfdsfgsfg/index.html</link>
+            <guid isPermaLink="false">07e03a33-926d-438e-b9a5-75d83170d17d</guid>
+            <pubDate>Sun, 01 Nov 2015 03:33:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
