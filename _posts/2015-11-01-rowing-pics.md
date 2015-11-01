@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-01T03:41:53.206Z'
-dateModified: '2015-11-01T03:41:23.282Z'
+datePublished: '2015-11-01T04:20:19.546Z'
+dateModified: '2015-11-01T04:20:17.207Z'
 title: Rowing Pics
+sourcePath: _posts/2015-11-01-rowing-pics.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-01-rowing-pics.md
-published: true
 url: rowing-pics/index.html
 _type: Article
 
