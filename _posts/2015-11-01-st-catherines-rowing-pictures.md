@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-01T05:49:40.557Z'
-dateModified: '2015-11-01T05:48:40.122Z'
+datePublished: '2015-11-01T06:04:57.352Z'
+dateModified: '2015-11-01T06:04:42.384Z'
 title: "St Catherine's Rowing Pictures"
+sourcePath: _posts/2015-11-01-st-catherines-rowing-pictures.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-01-st-catherines-rowing-pictures.md
-published: true
 url: st-catherines-rowing-pictures/index.html
 _type: Article
 
