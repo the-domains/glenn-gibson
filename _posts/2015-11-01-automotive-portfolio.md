@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-01T06:11:35.722Z'
-dateModified: '2015-11-01T06:11:27.765Z'
+datePublished: '2015-11-01T06:19:23.582Z'
+dateModified: '2015-11-01T06:19:18.768Z'
 title: Automotive Portfolio
 sourcePath: _posts/2015-11-01-automotive-portfolio.md
 published: true
