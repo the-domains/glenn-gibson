@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "For some behind the scenes insights, some 'friday flashbacks' and other goodies, follow my Instagram feed!"
-datePublished: '2015-11-01T05:55:02.915Z'
-dateModified: '2015-11-01T05:53:57.848Z'
+datePublished: '2015-11-01T05:58:53.736Z'
+dateModified: '2015-11-01T05:58:47.531Z'
 author: []
 related: []
 app_links:
