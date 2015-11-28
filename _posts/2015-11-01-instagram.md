@@ -1,22 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-01T07:43:27.237Z'
-dateModified: '2015-11-01T07:42:09.143Z'
+description: My Instagram page
+datePublished: '2015-11-28T01:30:55.437Z'
+dateModified: '2015-11-10T23:20:28.899Z'
 title: INSTAGRAM
+sourcePath: _posts/2015-11-01-instagram.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-01-instagram.md
-published: true
+author: []
 url: instagram/index.html
 _type: Article
 
