@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Complete automotive portfolio online at bluefish.com.au
-datePublished: '2015-11-01T06:45:12.236Z'
-dateModified: '2015-11-01T06:45:06.749Z'
+datePublished: '2015-11-28T01:32:24.589Z'
+dateModified: '2015-11-01T06:45:12.236Z'
 title: Automotive Portfolio
 sourcePath: _posts/2015-11-01-automotive-portfolio.md
 published: true
@@ -17,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+author: []
 url: automotive-portfolio/index.html
 _type: WebPage
 
