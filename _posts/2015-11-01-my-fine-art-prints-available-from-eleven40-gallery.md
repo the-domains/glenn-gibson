@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-28T01:31:51.089Z'
-dateModified: '2015-11-01T07:21:55.480Z'
+datePublished: '2015-11-28T01:32:23.614Z'
+dateModified: '2015-11-28T01:31:51.089Z'
 title: My Fine Art prints available from Eleven40 Gallery
 sourcePath: _posts/2015-11-01-my-fine-art-prints-available-from-eleven40-gallery.md
 published: true
